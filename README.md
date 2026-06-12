@@ -1,4 +1,4 @@
-Vistara Interior Design Website Redesign
+##Vistara Interior Design Website Redesign
 
 ## Project Overview
 
